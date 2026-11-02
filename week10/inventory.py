@@ -2,6 +2,9 @@
 #inventory.append("tape")
 #print(inventory)
 
+# self assesment questions
+
+
 #excercise 1
 print("excercise 1")
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
