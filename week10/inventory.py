@@ -3,7 +3,8 @@
 #print(inventory)
 
 # self assesment questions
-
+#question 1: lists can be changed after creating them rather than it being fixed. I thought lists were fixed going in. 
+#question 2: changing values in an excel would have been easier to do with a list. 
 
 #excercise 1
 print("excercise 1")
